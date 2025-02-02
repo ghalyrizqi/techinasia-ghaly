@@ -1,6 +1,6 @@
 # Techtechinasia DE - Ghaly
 
-## Installation
+# Installation
 
 ```bash
 docker compose up init-airflow -d
@@ -8,10 +8,10 @@ docker compose up init-airflow -d
 docker compose up
 ```
 
-## Login Airflow
+# Login Airflow
 
-## [Apache Airflow Link](http://localhost:8080/).
+## Apache Airflow Link: (http://localhost:8080/).
 
-### Username: `airflow`
+## Username: `airflow`
 
 ## ### Password: `password`
